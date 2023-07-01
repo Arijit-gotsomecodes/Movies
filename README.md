@@ -7,7 +7,7 @@ first functional react native app i have created
 
 ## Installation
 
-Install my-project with npm
+Install my-project with npm 
 
 ```bash
 To run this file download the zip file and extract it
